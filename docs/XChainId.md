@@ -1,0 +1,6 @@
+# XChainId
+
+## Enum
+
+* `X_CHAIN` (value: `"x-chain"`)
+* `_2OYMBNV4ENHYQK2FJJV5NVQLDBTMNJZQ5S3QS3LO6FTNC6FBYM` (value: `"2oYMBNV4eNHyqk2fjjV5nVQLDbtmNJzq5s3qs3Lo6ftnC6FByM"`)
